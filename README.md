@@ -1,3 +1,27 @@
+# Computational thinking
+
+## Problem identification:
+Find the area, circumference, and square root of a circle using its radius (all rounded to 2 decimals)
+
+## Problem decomposition:
+Create a program that
+
+Calculates the area first
+
+Calculates the circumference next
+
+Calculates the square root last
+
+## Data representation:
+Numerical values represented in float format
+
+## Algorithm development:
+import the math library, take a float input from the user, then calculate area, circumference, and square root using math functions. Afterwards, output all the data
+
+
+
+
+
 # Title: Guh the garden assistant
 
 ## Description:
